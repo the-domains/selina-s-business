@@ -1,6 +1,6 @@
 name: Selina's Business
 favicon: null
-layout_spectrum: 0.7377270706929266
+layout_spectrum: 0.41035
 typography_spectrum: 0.14023554977029562
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#95c2d0'
+    - '#0f0f0f'
+    - '#4a5355'
+    - '#7b1649'
+    - '#1f86aa'
   brandStrength: 0.5186953467782587
   lightness: 0.05564304278232157
   saturation: 0.215523422928527
